@@ -42,18 +42,6 @@ Este proyecto fue realizado como parte de una prueba práctica para aplicar el u
 
 ---
 
-## Estructura del proyecto
-
-```
-conversor-monedas
-│
-├── index.html
-├── style.css
-└── script.js
-```
-
----
-
 ## Autor
 
 Proyecto desarrollado por **Aracelli Osorio**.
